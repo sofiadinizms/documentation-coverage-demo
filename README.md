@@ -13,9 +13,7 @@ It uses the `documentation-coverage.json` structure and turns it into a grouped 
 ## Running the Project in Xcode
 
 1. Open the `.xcodeproj` or `.xcworkspace` in **Xcode 14+**.
-2. Build and run the project (`Cmd + R`) in the iOS Simulator or on a real device.
-
-> ✅ The project requires **iOS 16+** due to the use of Swift Charts.
+2. Build and run the project (`Cmd + R`) in the macOS Simulator or on a real device.
 
 
 
