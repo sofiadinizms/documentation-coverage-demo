@@ -8,42 +8,6 @@
 import SwiftUI
 import Charts
 
-//struct ContentView: View {
-//    var isEncoded = false
-//    var docItems: [DocItem]? = Manager.shared.receiveJSON()
-//   
-//    var body: some View {
-//        Button {
-//            Manager.shared.receiveJSON()
-//        } label: {
-//            Text("fkdflkslm")
-//        }
-//
-//        VStack{
-//            Table(of: DocItem.self) {
-//                TableColumn("Title") { docItem in
-//                    Text(docItem.title)
-//                }
-//                TableColumn("Usr") { docItem in
-//                    Text(docItem.usr)
-//                }
-//            } rows: {
-//                if let items = docItems {
-//                    ForEach(items) { i in
-//                        TableRow(DocItem(usr: i.usr, title: i.title, sourceLanguage: i.sourceLanguage, hasAbstract: i.hasAbstract, kind: i.kind, availability: i.availability, hasCodeListing: i.hasCodeListing, availableSourceLanguages: i.availableSourceLanguages, kindSpecificData: i.kindSpecificData, isCurated: i.isCurated))
-//                    }
-//                }
-//                
-//                
-//            }
-//
-//        }
-//        
-//    
-//    }
-//    
-//}
-
 struct ChartView: View {
     @State private var docItems: [DocItem] = []
     
