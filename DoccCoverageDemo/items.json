@@ -1,0 +1,99 @@
+[
+  {
+    "usr": "doc://SwiftDocC/documentation/SwiftDocC/PresentationURLGenerator/presentationURLForReference(_:)",
+    "title": "presentationURLForReference(_:)",
+    "sourceLanguage": {
+      "name": "Swift",
+      "linkDisambiguationID": "swift",
+      "id": "swift"
+    },
+    "hasAbstract": true,
+    "kind": {
+      "isSymbol": true,
+      "name": "Instance Method",
+      "id": "org.swift.docc.kind.instanceMethod"
+    },
+    "availability": [],
+    "hasCodeListing": false,
+    "availableSourceLanguages": [
+      {
+        "name": "Swift",
+        "linkDisambiguationID": "swift",
+        "id": "swift"
+      }
+    ],
+    "kindSpecificData": {
+      "discriminant": "instanceMethod",
+      "associatedValue": {
+        "total": 3,
+        "documented": 2
+      }
+    },
+    "isCurated": false
+  },
+  {
+    "usr": "doc://SwiftDocC/documentation/SwiftDocC/Foo/bar(_:)",
+    "title": "bar(_:)",
+    "sourceLanguage": {
+      "name": "Swift",
+      "linkDisambiguationID": "swift",
+      "id": "swift"
+    },
+    "hasAbstract": true,
+    "kind": {
+      "isSymbol": true,
+      "name": "Function",
+      "id": "org.swift.docc.kind.function"
+    },
+    "availability": [],
+    "hasCodeListing": false,
+    "availableSourceLanguages": [
+      {
+        "name": "Swift",
+        "linkDisambiguationID": "swift",
+        "id": "swift"
+      }
+    ],
+    "kindSpecificData": {
+      "discriminant": "function",
+      "associatedValue": {
+        "total": 5,
+        "documented": 5
+      }
+    },
+    "isCurated": true
+  },
+  {
+    "usr": "doc://SwiftDocC/documentation/SwiftDocC/Baz/qux(_:)",
+    "title": "qux(_:)",
+    "sourceLanguage": {
+      "name": "Swift",
+      "linkDisambiguationID": "swift",
+      "id": "swift"
+    },
+    "hasAbstract": true,
+    "kind": {
+      "isSymbol": true,
+      "name": "Property",
+      "id": "org.swift.docc.kind.property"
+    },
+    "availability": [],
+    "hasCodeListing": false,
+    "availableSourceLanguages": [
+      {
+        "name": "Swift",
+        "linkDisambiguationID": "swift",
+        "id": "swift"
+      }
+    ],
+    "kindSpecificData": {
+      "discriminant": "property",
+      "associatedValue": {
+        "total": 10,
+        "documented": 7
+      }
+    },
+    "isCurated": false
+  }
+]
+
